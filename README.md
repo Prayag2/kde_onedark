@@ -2,8 +2,9 @@
 A dark colour scheme based on the "One Dark" colour palette!
 
 ## Installation
-Clone the repo:
+Clone the repo:  
 `git clone https://github.com/prayag2/kde_onedarkcolours`  
+Install:  
 `cd kde_onedarkcolours/colours`  
 `mkdir -p ~/.local/share/color-schemes && cp ./* ~/.local/share/color-schemes/`  
 
